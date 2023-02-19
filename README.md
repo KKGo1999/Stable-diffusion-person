@@ -1,0 +1,2 @@
+# Stable-diffusion-person
+由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像

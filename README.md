@@ -7,9 +7,9 @@
 
 * Chilloutmix模型（通用的人物生成）：[Colab运行环境](https://colab.research.google.com/drive/1KiwBZ6CaXeuOlpRJMssQ04x2Q0XsGjom?usp=sharing)
 
-* Korean Doll Likeness LoRA模型（主要为韩国小姐姐）：[Colab运行环境](https://colab.research.google.com/drive/1zgCN52pIbMXsVtVu-wLWrB694iUt2s1r)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
+* Korean Doll Likeness LoRA模型（主要为韩国女生风）：[Colab运行环境](https://colab.research.google.com/drive/1zgCN52pIbMXsVtVu-wLWrB694iUt2s1r)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
 
-* 图生图ControlNet模型（主要为图生图）： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
+* 图生图ControlNet模型（主要为以图生图）： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
 
 ## 一些Prompts
 ```text

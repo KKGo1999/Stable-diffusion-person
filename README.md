@@ -9,6 +9,8 @@
 
 * Korean Doll Likeness LoRA模型：[Colab运行环境](https://drive.google.com/file/d/1zgCN52pIbMXsVtVu-wLWrB694iUt2s1r/view?usp=sharing)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
 
+* 图生图ControlNet模型： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
+
 ## 一些Prompts
 ```text
 <lora:taiwanDollLikeness_v10:0.66>, best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body

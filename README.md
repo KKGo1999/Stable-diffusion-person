@@ -5,15 +5,15 @@
 
 ## 可以一键运行的Google Colab环境
 
-* Chilloutmix模型：[Colab运行环境](https://colab.research.google.com/drive/1KiwBZ6CaXeuOlpRJMssQ04x2Q0XsGjom?usp=sharing)
+* Chilloutmix模型（通用的人物生成）：[Colab运行环境](https://colab.research.google.com/drive/1KiwBZ6CaXeuOlpRJMssQ04x2Q0XsGjom?usp=sharing)
 
-* Korean Doll Likeness LoRA模型：[Colab运行环境](https://colab.research.google.com/drive/1zgCN52pIbMXsVtVu-wLWrB694iUt2s1r)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
+* Korean Doll Likeness LoRA模型（主要为韩国小姐姐）：[Colab运行环境](https://colab.research.google.com/drive/1zgCN52pIbMXsVtVu-wLWrB694iUt2s1r)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
 
-* 图生图ControlNet模型： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
+* 图生图ControlNet模型（主要为图生图）： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
 
 ## 一些Prompts
 ```text
-<lora:taiwanDollLikeness_v10:0.66>, best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body
+best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body
 
 Negative prompt: paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
 
@@ -29,7 +29,7 @@ Hires upscaler: Latent (bicubic antialiased),
 Denoising strength: 0.45
 
 
-<lora:taiwanDollLikeness_v10:0.66>, best quality, ultra high res, (photorealistic:1.4), 1girl, [loose and oversized black jacket,] [white|red] sports bra, (yoga pants:1), (light brown hair:1.2), looking at viewer, smiling, full body, streets, urban, makeup, wide angle
+best quality, ultra high res, (photorealistic:1.4), 1girl, loose and oversized black jacket, white sports bra, (yoga pants:1), (light brown hair:1.2), looking at viewer, smiling, full body, streets, urban, makeup, wide angle
 Negative prompt: paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans
 Size: 512x768, 
 Seed: [3, 537380690]
@@ -43,7 +43,7 @@ Hires upscaler: Latent (bicubic antialiased),
 Denoising strength: 0.5
 
 
-<koreanDollLikeness_v10:0.66>, best quality, ultra high res, (photorealistic:1.4), 1woman, sleeveless white button shirt, black skirt, black choker, cute, (Kpop idol), (aegyo sal:1), (platinum blonde hair:1), ((puffy eyes)), looking at viewer, full body, facing front
+best quality, ultra high res, (photorealistic:1.4), 1woman, sleeveless white button shirt, black skirt, black choker, cute, (Kpop idol), (aegyo sal:1), (platinum blonde hair:1), ((puffy eyes)), looking at viewer, full body, facing front
 Negative prompt: paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, nsfw, nipples
 Size: 512x768, 
 Seed: 1315543661, 

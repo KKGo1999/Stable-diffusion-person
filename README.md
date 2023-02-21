@@ -1,4 +1,4 @@
-# Stable-diffusion-person
+# 高清人像生成 Stable Diffusion on Colab
 介绍由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像的方法
 
 主要是利用免费的Google Colab的在线环境，免去配置环境的麻烦。 由于是Google的服务，所以需要一点上网的技巧。

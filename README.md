@@ -11,6 +11,10 @@
 
 * 图生图ControlNet模型（主要为以图生图）： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
 
+## YouTube小白教程
+* 如果遇到困难，可以参考YouTube教程：[https://www.youtube.com/embed/9upNoWo3WB8](https://www.youtube.com/embed/9upNoWo3WB8)
+* 实在搞不定时，可以考虑[加微信](https://www.kkgo1999.top/)入群交流
+
 ## 一些Prompts
 ```text
 best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body

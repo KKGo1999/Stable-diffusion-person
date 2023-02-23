@@ -1,7 +1,11 @@
 # 高清人像生成 Stable Diffusion on Colab
-介绍由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像的方法
 
-主要是利用免费的Google Colab的在线环境，免去配置环境的麻烦。 由于是Google的服务，所以需要一点上网的技巧。
+本教程介绍由基于Stable-diffusion的Chilloutmix模型生成高清真实人像的方法。
+
+* 主要是利用免费的Google Colab的在线环境创建Stable Diffusion WebUI，可以免去配置环境的麻烦。
+
+* 由于是Google的服务，所以需要一点上网的技巧（个人用的[Renzhe.Cloud](https://renzhe.cloud/auth/register?code=a7JU)，还比较稳定）
+
 
 ## 可以一键运行的Google Colab环境
 
@@ -15,7 +19,8 @@
 * 如果遇到困难，可以参考YouTube教程：[https://www.youtube.com/embed/9upNoWo3WB8](https://www.youtube.com/embed/9upNoWo3WB8)
 * 实在搞不定时，可以考虑[加微信](https://www.kkgo1999.top/)入群交流
 
-## 一些Prompts
+## 一些Prompts的示例
+
 ```text
 best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body
 

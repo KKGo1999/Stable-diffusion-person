@@ -13,7 +13,7 @@
 
 * Korean Doll Likeness LoRA模型（主要为韩国女生风）：[Colab运行环境](https://colab.research.google.com/drive/1icpYYgxi5dd7Iw2Vo3Fsht0PUVJfc-qH?usp=sharing)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
 
-* 图生图ControlNet模型（主要为以图生图）： [Colab运行环境](https://colab.research.google.com/drive/1sJyXFi_rItOZTjWbb6Re99FJBYmsvjFE?usp=sharing)
+* 图生图ControlNet模型（主要为以图生图）： [Colab运行环境](https://colab.research.google.com/drive/13IGGkt-kqEiqLH6KGWr19Bjqfd-48_9p?usp=sharing)
 
 ## YouTube小白教程
 * 如果遇到困难，可以参考YouTube教程：[https://www.youtube.com/embed/9upNoWo3WB8](https://www.youtube.com/embed/9upNoWo3WB8)

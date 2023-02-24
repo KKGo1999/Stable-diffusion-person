@@ -9,7 +9,7 @@
 
 ## 可以一键运行的Google Colab环境
 
-* Chilloutmix模型（通用的人物生成）：[Colab运行环境](https://colab.research.google.com/drive/1KiwBZ6CaXeuOlpRJMssQ04x2Q0XsGjom?usp=sharing)
+* Chilloutmix模型（通用的人物生成）：[Colab运行环境](https://colab.research.google.com/drive/1vhsF89FWUww-XhLa1MYXnLeqvmEiO1Yr?usp=sharing)
 
 * Korean Doll Likeness LoRA模型（主要为韩国女生风）：[Colab运行环境](https://colab.research.google.com/drive/1icpYYgxi5dd7Iw2Vo3Fsht0PUVJfc-qH?usp=sharing)、[Civitai效果图](https://civitai.com/models/6424/chilloutmix)
 

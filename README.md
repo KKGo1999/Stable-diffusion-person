@@ -1,8 +1,9 @@
 # 高清人像生成 Stable Diffusion on Colab
 
-[![](https://shields.io/twitter/follow/:kkgo1999?label=Follow)](https://twitter.com/kkgo1999)
-[![](https://shields.io/youtube/channel/subscribers/UCx7EyuAEFfga6cTYABxlaCQ)](https://youtube.com/@KKGo1999)
-[![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://github.com/KKGo1999)
+[![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://github.com/KKGo1999) &nbsp;
+[![](https://shields.io/twitter/follow/kkgo1999?label=Follow)](https://twitter.com/kkgo1999) &nbsp;
+[![](https://shields.io/youtube/channel/subscribers/UCx7EyuAEFfga6cTYABxlaCQ)](https://youtube.com/@KKGo1999) &nbsp;
+[![](https://img.shields.io/badge/bilibili-哔哩哔哩-critical)](https://space.bilibili.com/406715814) &nbsp;
 
 本文介绍由基于Stable-diffusion的Chilloutmix模型（以及最新的ControlNet）生成高清真实人像的方法及Demo。
 
@@ -21,7 +22,8 @@
 
 ## YouTube小白教程
 * 如果遇到困难，可以参考YouTube教程：[https://www.youtube.com/embed/9upNoWo3WB8](https://www.youtube.com/embed/9upNoWo3WB8)
-* 实在搞不定时，可以考虑[加微信](https://www.kkgo1999.top/)入群交流
+* 实在搞不定时，可以考虑[加微信](https://www.kkgo1999.top/)入群交流 
+[![](https://img.shields.io/badge/WeChat-微信-brightgreen)](https://www.kkgo1999.top/img/kkgo1999.wechat.jpg)
 
 ## 一些Prompts的示例
 

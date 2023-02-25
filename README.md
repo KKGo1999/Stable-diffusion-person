@@ -2,7 +2,7 @@
 
 [![](https://shields.io/twitter/follow/:kkgo1999?label=Follow)](https://twitter.com/kkgo1999)
 [![](https://shields.io/youtube/channel/subscribers/UCx7EyuAEFfga6cTYABxlaCQ)](https://youtube.com/@KKGo1999)
-[![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://space.bilibili.com/22970812)
+[![](https://shields.io/github/stars/kkgo1999/Stable-diffusion-person?style=social)](https://github.com/KKGo1999)
 
 本文介绍由基于Stable-diffusion的Chilloutmix模型（以及最新的ControlNet）生成高清真实人像的方法及Demo。
 

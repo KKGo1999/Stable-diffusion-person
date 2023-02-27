@@ -78,3 +78,6 @@ Denoising strength: 0.45
 https://medium.com/@croath/%E4%BD%8E%E6%88%90%E6%9C%AC%E4%BD%93%E9%AA%8C%E7%94%9F%E6%88%90-ai-%E5%B0%8F%E5%A7%90%E5%A7%90%E7%85%A7%E7%89%87-85ffa7c13cd7
 https://www.bilibili.com/video/BV12x4y1V71Q/
 -->
+
+## Q&A
+* 中文版的Web UI：可以参考[这个Repo](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)，实测“方法1”是成功的

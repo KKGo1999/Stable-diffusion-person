@@ -12,10 +12,10 @@
 
 * 利用免费的Google Colab的在线环境创建Stable Diffusion WebUI，可以免去配置环境的麻烦。
 
-* 身处内地的朋友：由于Colab是Google的服务，如果你在内地，需要一点上网的技巧（个人用的[Renzhe.Cloud](https://renzhe.cloud/auth/register?code=a7JU)，还比较稳）
+> 身处内地的朋友：由于Colab是Google的服务，如果你在内地，需要一点上网的技巧（个人用的[Renzhe.Cloud](https://renzhe.cloud/auth/register?code=a7JU)，还比较稳）
 
 
-## 可以一键运行的Google Colab环境
+## 1. 可以一键运行的Google Colab环境
 
 * Chilloutmix模型（通用的人物生成）：[Colab运行环境](https://colab.research.google.com/drive/1vhsF89FWUww-XhLa1MYXnLeqvmEiO1Yr?usp=sharing)
 
@@ -23,11 +23,11 @@
 
 * 图生图ControlNet模型（主要为以图生图）： [Colab运行环境](https://colab.research.google.com/drive/13IGGkt-kqEiqLH6KGWr19Bjqfd-48_9p?usp=sharing)
 
-## YouTube小白教程
+## 2. YouTube小白教程
 * 如果遇到困难，可以参考YouTube教程：[https://www.youtube.com/embed/9upNoWo3WB8](https://www.youtube.com/embed/9upNoWo3WB8)
 * 实在搞不定时，可以考虑[加微信](https://www.kkgo1999.top/) or [Telegram](https://t.me/+kS-jBrht-ZRiZTU1)入群交流 
 
-## 一些Prompts的示例
+## 3. 一些Prompts的示例
 
 ```text
 best quality, ultra high res, photoshoot, (photorealistic:1.4), 1girl, singlet, sleeveless, (light brown hair:1), looking at viewer, smiling, cute, full body
@@ -79,5 +79,6 @@ https://medium.com/@croath/%E4%BD%8E%E6%88%90%E6%9C%AC%E4%BD%93%E9%AA%8C%E7%94%9
 https://www.bilibili.com/video/BV12x4y1V71Q/
 -->
 
-## Q&A
-* 中文版的Web UI：可以参考[这个Repo](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)，实测“方法1”是成功的
+## 4. Q&A
+* 中文版Web UI：可以参考[这个Repo](https://github.com/VinsonLaro/stable-diffusion-webui-chinese)讲Web UI改为中文界面，实测“方法1”成功
+* AI画图学习资料：[AI绘画应用教程](https://weknowlib.feishu.cn/wiki/wikcn7hgYG3w4R7JYNJFU2bVjGd)
